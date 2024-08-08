@@ -2,4 +2,4 @@ red
 orenge
 yellow
 green
-purple
+indigo
